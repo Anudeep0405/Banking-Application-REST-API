@@ -22,6 +22,8 @@ Key Insights
 
 🌟 Spring Boot Integration: Leveraging Spring Boot simplifies the setup process, allowing developers to focus on building features rather than configurations, which is particularly beneficial for rapid 
 application development.
+![NoteGPT_MindMap_1730810455047](https://github.com/user-attachments/assets/30e14596-3dfc-4d14-8811-a1d8f4174aa6)
+
 
 
 
